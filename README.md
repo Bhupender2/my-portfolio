@@ -6,9 +6,8 @@
 
 # Demo :movie_camera:
 
-![](./public/image/screen.png)
 
-## View live preview [here](https://abusaid.netlify.app/).
+## View live preview [here](https://bhupender-singh.netlify.app/)
 
 ---
 
